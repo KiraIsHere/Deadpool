@@ -1,1 +1,1 @@
-worker: node bot.js:Deadpool
+worker: node bot.js
